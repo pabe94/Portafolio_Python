@@ -9,6 +9,6 @@ Incluye nombre de las empresas y los principales modulo de ERP y CRM realizados 
 
 - [El Búho Nocturno](https://www.elbuhonocturno.com/website/info) - Empresa familiar de confección de pijamas y ropa interior de caballero.
 - [DGSTEC](https://www.dgstec.com/website/info) - Soluciones en impresión digital y gestión documental para su empresa
-- [Fijaplast S.L.](https://portal.fijaplast.com/website/info) - istemas de Embalaje, instalaciones y soluciones para sus procesos y lineas de embalaje.
+- [Fijaplast S.L.](https://portal.fijaplast.com/website/info) - Sistemas de Embalaje, instalaciones y soluciones para sus procesos y lineas de embalaje.
 - [Infoautonomos 2009 Sl](https://clientes.infoautonomos.com/website/info) - Asesoría / Gestoría
 - [Longevitas Labs](https://www.longevitaslabs.com/website/info) - Formulación y fabricación de fórmulas innovadoras en el campo de la nutracéutica para compensar los desequilibrios. 
