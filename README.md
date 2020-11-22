@@ -3,15 +3,12 @@
 # Mejores Portafolios [![Portafolios](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Lista de proyecto serios realizados en Python
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+Incluye nombre de las empresas y los principales modulo de ERP y CRM realizados en ellas.
 
 ## Portafolio
 
-- [ai/size-limit](https://www.elbuhonocturno.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [El Búho Nocturno](https://www.elbuhonocturno.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [ai/size-limit](https://www.dgstec.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [ai/size-limit](https://portal.fijaplast.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [ai/size-limit](https://clientes.infoautonomos.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [ai/size-limit](https://www.longevitaslabs.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
