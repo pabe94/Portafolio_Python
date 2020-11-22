@@ -8,7 +8,7 @@ Incluye nombre de las empresas y los principales modulo de ERP y CRM realizados 
 ## Portafolio
 
 - [El Búho Nocturno](https://www.elbuhonocturno.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://www.dgstec.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://portal.fijaplast.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://clientes.infoautonomos.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [ai/size-limit](https://www.longevitaslabs.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [DGSTEC](https://www.dgstec.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [Fijaplast S.L.](https://portal.fijaplast.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [Infoautonomos 2009 Sl](https://clientes.infoautonomos.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [Longevitas Labs](https://www.longevitaslabs.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
