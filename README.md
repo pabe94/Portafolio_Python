@@ -7,4 +7,11 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Examples
 
+- [ai/size-limit](https://www.elbuhonocturno.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://www.dgstec.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://portal.fijaplast.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://clientes.infoautonomos.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://www.longevitaslabs.com/website/info) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
